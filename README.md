@@ -24,7 +24,7 @@ The acceptance criteria for this project are as follows:
 4.  WHEN I click into a timeblock
     THEN I can enter an event
 
-    This seemed to work simply because I set each of these timeblocks as <textarea> in the HTML file...  I originally created them as <inputs> but the CSS file seemed to call for <textarea>.
+    This seemed to work simply because I set each of these timeblocks as "<textarea>" in the HTML file...  I originally created them as "<input>s" but the CSS file seemed to call for "<textarea>".
 
 5.  WHEN I click the save button for that timeblock
     THEN the text for that event is saved in local storage
